@@ -104,4 +104,4 @@ def initialize_sample_data():
     session.close()
 
 # Initialize sample data
-initialize_sample_data()
+#initialize_sample_data()
